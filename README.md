@@ -9,7 +9,7 @@ Aplicação dos decorators com typescript
 npm install
 ```
 
-### test: 
+### main: 
 ```bash
-npm run test
+npm run main
 ```
